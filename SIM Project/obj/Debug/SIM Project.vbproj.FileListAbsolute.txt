@@ -1,0 +1,73 @@
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\SIM Project\bin\Debug\SIM Project.exe.config
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\SIM Project\bin\Debug\SIM Project.exe
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\SIM Project\bin\Debug\SIM Project.pdb
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\SIM Project\bin\Debug\SIM Project.xml
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\SIM Project\obj\Debug\SIM_Project.Resources.resources
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\SIM Project\obj\Debug\SIM Project.vbproj.GenerateResource.cache
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\SIM Project\obj\Debug\SIM Project.vbproj.CoreCompileInputs.cache
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\SIM Project\obj\Debug\SIM Project.exe
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\SIM Project\obj\Debug\SIM Project.xml
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\SIM Project\obj\Debug\SIM Project.pdb
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\SIM Project\obj\Debug\SIM_Project.Home.resources
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\SIM Project\obj\Debug\SIM_Project.menua1.resources
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\SIM Project\obj\Debug\SIM_Project.ProfileController.resources
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\SIM Project\obj\Debug\SIM_Project.MenuBar.resources
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\SIM Project\obj\Debug\SIM_Project.buttonCtrl.resources
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\SIM Project\obj\Debug\SIM_Project.SplashScreen.resources
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\SIM Project\obj\Debug\SIM_Project.LoginForm.resources
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\SIM Project\obj\Debug\SIM_Project.Gallery.resources
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\SIM Project\bin\Debug\MySql.Data.dll
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\SIM Project\bin\Debug\Google.Protobuf.dll
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\SIM Project\bin\Debug\MySql.Data.xml
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\SIM Project\obj\Debug\SIM Project.vbproj.CopyComplete
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\SIM Project\obj\Debug\SIM_Project.Stundentform.resources
+C:\Users\Admin\Documents\SIM Project\SIM Project\bin\Debug\SIM Project.exe.config
+C:\Users\Admin\Documents\SIM Project\SIM Project\bin\Debug\SIM Project.exe
+C:\Users\Admin\Documents\SIM Project\SIM Project\bin\Debug\SIM Project.pdb
+C:\Users\Admin\Documents\SIM Project\SIM Project\bin\Debug\SIM Project.xml
+C:\Users\Admin\Documents\SIM Project\SIM Project\obj\Debug\SIM Project.vbprojAssemblyReference.cache
+C:\Users\Admin\Documents\SIM Project\SIM Project\obj\Debug\SIM_Project.buttonCtrl.resources
+C:\Users\Admin\Documents\SIM Project\SIM Project\obj\Debug\SIM_Project.Gallery.resources
+C:\Users\Admin\Documents\SIM Project\SIM Project\obj\Debug\SIM_Project.Home.resources
+C:\Users\Admin\Documents\SIM Project\SIM Project\obj\Debug\SIM_Project.menua1.resources
+C:\Users\Admin\Documents\SIM Project\SIM Project\obj\Debug\SIM_Project.MenuBar.resources
+C:\Users\Admin\Documents\SIM Project\SIM Project\obj\Debug\SIM_Project.Resources.resources
+C:\Users\Admin\Documents\SIM Project\SIM Project\obj\Debug\SIM_Project.ProfileController.resources
+C:\Users\Admin\Documents\SIM Project\SIM Project\obj\Debug\SIM_Project.SplashScreen.resources
+C:\Users\Admin\Documents\SIM Project\SIM Project\obj\Debug\SIM_Project.StudentList.resources
+C:\Users\Admin\Documents\SIM Project\SIM Project\obj\Debug\SIM_Project.Stundentform.resources
+C:\Users\Admin\Documents\SIM Project\SIM Project\obj\Debug\SIM_Project.LoginForm.resources
+C:\Users\Admin\Documents\SIM Project\SIM Project\obj\Debug\SIM Project.vbproj.GenerateResource.cache
+C:\Users\Admin\Documents\SIM Project\SIM Project\obj\Debug\SIM Project.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SIM Project\SIM Project\obj\Debug\SIM Project.vbproj.CopyComplete
+C:\Users\Admin\Documents\SIM Project\SIM Project\obj\Debug\SIM Project.exe
+C:\Users\Admin\Documents\SIM Project\SIM Project\obj\Debug\SIM Project.xml
+C:\Users\Admin\Documents\SIM Project\SIM Project\obj\Debug\SIM Project.pdb
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\bin\Debug\SIM Project.exe.config
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\bin\Debug\SIM Project.exe
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\bin\Debug\SIM Project.pdb
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\bin\Debug\SIM Project.xml
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\bin\Debug\MySql.Data.dll
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\bin\Debug\Google.Protobuf.dll
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\bin\Debug\MySql.Data.xml
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\obj\Debug\SIM_Project.buttonCtrl.resources
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\obj\Debug\SIM_Project.Gallery.resources
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\obj\Debug\SIM_Project.Home.resources
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\obj\Debug\SIM_Project.menua1.resources
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\obj\Debug\SIM_Project.MenuBar.resources
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\obj\Debug\SIM_Project.Resources.resources
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\obj\Debug\SIM_Project.ProfileController.resources
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\obj\Debug\SIM_Project.SplashScreen.resources
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\obj\Debug\SIM_Project.StudentList.resources
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\obj\Debug\SIM_Project.Stundentform.resources
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\obj\Debug\SIM_Project.LoginForm.resources
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\obj\Debug\SIM Project.vbproj.GenerateResource.cache
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\obj\Debug\SIM Project.vbproj.CoreCompileInputs.cache
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\obj\Debug\SIM Project.vbproj.CopyComplete
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\obj\Debug\SIM Project.exe
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\obj\Debug\SIM Project.xml
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\obj\Debug\SIM Project.pdb
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\obj\Debug\SIM_Project.DashBoard.resources
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\obj\Debug\SIM_Project.Gross_Fees_Paid.resources
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\obj\Debug\SIM_Project.Student_Profile.resources
+C:\Users\Telthem\Desktop\Buse_Projects\2019 Projects\Mercy\SIM Project\db\SIM Project\SIM Project\obj\Debug\SIM_Project.Teacher_Dashboard.resources

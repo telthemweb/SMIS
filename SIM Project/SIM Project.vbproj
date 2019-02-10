@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5EC6CA71-DC33-408E-A497-C5248A40AA6B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SIM_Project.My.MyApplication</StartupObject>
+    <RootNamespace>SIM_Project</RootNamespace>
+    <AssemblyName>SIM Project</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SIM Project.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SIM Project.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Dakirby309-Windows-8-Metro-Folders-OS-Libraries-Metro.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.10.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="buttonCtrl.Designer.vb">
+      <DependentUpon>buttonCtrl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="buttonCtrl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Fees_folder\DashBoard.Designer.vb">
+      <DependentUpon>DashBoard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fees_folder\DashBoard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fees_folder\Gross_Fees_Paid.Designer.vb">
+      <DependentUpon>Gross_Fees_Paid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fees_folder\Gross_Fees_Paid.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="framework_settings\Databases\ComboLoader.vb" />
+    <Compile Include="framework_settings\Databases\Database.vb" />
+    <Compile Include="framework_settings\Databases\PublicVariables.vb" />
+    <Compile Include="framework_settings\Databases\SavingMode.vb" />
+    <Compile Include="framework_settings\Databases\TableRowsCount.vb" />
+    <Compile Include="framework_settings\Databases\TablesQuery.vb" />
+    <Compile Include="framework_settings\FormTextBoxPlaceHolder\feesModule.vb" />
+    <Compile Include="framework_settings\FormTextBoxPlaceHolder\LogIn.vb" />
+    <Compile Include="framework_settings\FormTextBoxPlaceHolder\StudentAccounts.vb" />
+    <Compile Include="framework_settings\lib_socialMedia\SocialMedia.vb" />
+    <Compile Include="Gallary\Gallery.Designer.vb">
+      <DependentUpon>Gallery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gallary\Gallery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.vb">
+      <DependentUpon>Home.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menua1.Designer.vb">
+      <DependentUpon>menua1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="menua1.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MenuBar.Designer.vb">
+      <DependentUpon>MenuBar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuBar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ProfileController.Designer.vb">
+      <DependentUpon>ProfileController.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileController.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SplashScreen.Designer.vb">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Students\StudentList.Designer.vb">
+      <DependentUpon>StudentList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Students\StudentList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Students\Student_Profile.Designer.vb">
+      <DependentUpon>Student_Profile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Students\Student_Profile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Students\Stundentform.Designer.vb">
+      <DependentUpon>Stundentform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Students\Stundentform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher_Folder\Teacher_Dashboard.Designer.vb">
+      <DependentUpon>Teacher_Dashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher_Folder\Teacher_Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\LoginForm.Designer.vb">
+      <DependentUpon>LoginForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users\LoginForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="buttonCtrl.resx">
+      <DependentUpon>buttonCtrl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fees_folder\DashBoard.resx">
+      <DependentUpon>DashBoard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fees_folder\Gross_Fees_Paid.resx">
+      <DependentUpon>Gross_Fees_Paid.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gallary\Gallery.resx">
+      <DependentUpon>Gallery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menua1.resx">
+      <DependentUpon>menua1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuBar.resx">
+      <DependentUpon>MenuBar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileController.resx">
+      <DependentUpon>ProfileController.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Students\StudentList.resx">
+      <DependentUpon>StudentList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Students\Student_Profile.resx">
+      <DependentUpon>Student_Profile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Students\Stundentform.resx">
+      <DependentUpon>Stundentform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher_Folder\Teacher_Dashboard.resx">
+      <DependentUpon>Teacher_Dashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\LoginForm.resx">
+      <DependentUpon>LoginForm.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Dakirby309-Windows-8-Metro-Folders-OS-Libraries-Metro.ico" />
+    <None Include="Resources\BONote_32x32.png" />
+    <None Include="Resources\noimage.jpg" />
+    <None Include="Resources\dashboard1.gif" />
+    <None Include="Resources\Up_32x32.png" />
+    <None Include="Resources\Print_32x32.png" />
+    <None Include="Resources\dashboard.gif" />
+    <None Include="Resources\diddiid.PNG" />
+    <None Include="Resources\system-restart.png" />
+    <None Include="Resources\images~62.png" />
+    <None Include="Resources\customers.png" />
+    <None Include="Resources\chat1.png" />
+    <None Include="Resources\studying.png" />
+    <None Include="Resources\student1.png" />
+    <None Include="Resources\1 %286%29.png" />
+    <None Include="Resources\banner1.gif" />
+    <None Include="Resources\banner.gif" />
+    <None Include="Resources\1394810731_Login Manager.png" />
+    <None Include="Resources\1393582908_user_accounts.png" />
+    <None Include="Resources\rate-lock.jpg" />
+    <None Include="Resources\login.png" />
+    <None Include="Resources\fb5bstylish-colorful-flower3.jpg" />
+    <None Include="Resources\web-mailru.png" />
+    <None Include="Resources\unity-webapps-instagram.png" />
+    <None Include="Resources\web-whatsapp.png" />
+    <None Include="Resources\web-facebook.png" />
+    <None Include="Resources\web-twitter.png" />
+    <None Include="Resources\1953128_XL.jpg" />
+    <None Include="Resources\2798850_XL.jpg" />
+    <None Include="Resources\audio.png" />
+    <None Include="Resources\download %286%29.jpeg" />
+    <None Include="Resources\download %281%29.jpeg" />
+    <None Include="Resources\chipadze.gif" />
+    <None Include="Resources\image6.jpg" />
+    <None Include="Resources\alex-kotliarskyi-361099-unsplash.jpg" />
+    <None Include="Resources\photo-camera-1.png" />
+    <None Include="Resources\calligrakrita.png" />
+    <None Include="Resources\1 %2829%29.png" />
+    <None Include="Resources\Actions-list-add-user-icon.png" />
+    <None Include="Resources\checkbox-touch.png" />
+    <None Include="Resources\020-stopwatch-2.png" />
+    <None Include="Resources\025-medal.png" />
+    <None Include="Resources\student.png" />
+    <None Include="Resources\retext.png" />
+    <None Include="Resources\ereader1.png" />
+    <None Include="Resources\setroubleshoot_icon.png" />
+    <None Include="Resources\ereader.png" />
+    <None Include="Resources\anigif.gif" />
+    <None Include="Resources\4.png" />
+    <None Include="Resources\instagram.png" />
+    <None Include="Resources\youtube.png" />
+    <None Include="Resources\twitter.png" />
+    <None Include="Resources\facebook.png" />
+    <None Include="Resources\business-1067978_1920.jpg" />
+    <None Include="Resources\alarm-clock.png" />
+    <None Include="Resources\notebook-4.png" />
+    <None Include="Resources\calendar-5.png" />
+    <None Include="Resources\3Depict.png" />
+    <None Include="Resources\chat.png" />
+    <None Include="Resources\ocenaudio.png" />
+    <None Include="Resources\4kvideodownloader.png" />
+    <None Include="Resources\garbage-1.png" />
+    <None Include="Resources\acoustic-guitar.png" />
+    <None Include="Resources\calendar-6.png" />
+    <None Include="Resources\ereader-2.png" />
+    <None Include="Resources\anatine.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
